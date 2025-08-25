@@ -14,8 +14,11 @@
 Include the commands used in the Experiment.
 
 ## OUTPUT
-### REG NUMBER:
-### NAME:
+<img width="1696" height="871" alt="image" src="https://github.com/user-attachments/assets/6370f1e6-4d00-4e77-8d57-70423c374b2a" />
+<img width="1807" height="819" alt="image" src="https://github.com/user-attachments/assets/3b74fe9d-1c81-4e78-8ab8-5a11d7d54dc0" />
+
+### REG NUMBER: 212223040077
+### NAME: JESPIAH SHIHANA P S
  
  Include your Screenshots Here.
 ## RESULT
